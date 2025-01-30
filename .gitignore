@@ -12,3 +12,7 @@ uv.lock
 
 *.log
 pyproject.toml
+
+# Fern
+sdks/
+
